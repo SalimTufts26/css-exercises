@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.click, .second-click {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+  border-top: solid grey 3px;
+  border-left: solid grey 3px;
+  border-bottom: solid black 3px;
+  border-right: solid black 3px;
+}
+
+.click {
+  background-color: black;
+  color: white;
+}
+
+.second-click {
+  background-color: yellow;
+  
+}
